@@ -1,0 +1,32 @@
+TIPOS DE JUEGO:
+-MUERTE SUBITA:
+tipo de juego en el que los jugadores se nfrentan entre si:
+hay dos tipos de muerte subita:
+-en el primero es un juego con un numero determinado de partidas
+(numero impar) puede ser de 5, 7, 9, 11 y el jugador que asesine a su oponente mas de la mitad de las veces
+gana la partida.
+-El segundo es en un limite de tiempo fijo, el jugadro que mas veces halla asesinado a us oponente, gana el juego
+si ocurre un empate, la partida se va a instancia de muerte Subita final, aqui el primer jugador que asesine
+a su oponente, gana el juego
+
+-MUERTE SUBITA SIN ARMAS:
+En este tipo de juego, las mecanicas son las mismas que en MUERTE SUBITA, con la diferencia que aqui
+los jugadores, solo podran usar puños y patadas, no se habilitara el uso de items o armas.
+
+-CAPTURA LA BANDERA:
+En este modo de juego, el jugador debe coger y llevar la bandera de su enemigo hasta su base, ambas banderas deben
+estar en la base del jugador para poder ganar.
+
+-CONQUISTA
+Este modo de juego se basa en que el jugador para ganar la partida, debe tocar todas las banderas que se ecuentran
+en el mapa, el primero que lo consiga, gana la partida
+
+-CARRERA:
+En este modo de juego, los jugadores deben competir en el nivel, que esta lleno de obstaculos y deben
+llegar a la meta, antes que su oponente, para conseguir este ojetivo, los jugadores se valen de items
+y armas que iran apareciendo en el nivel.
+
+-LAST STANDING
+Cada jugador tiene un numero deterinado de vidas, y tendra que matar al otro primero antes que me mate a mi
+con el pasar del tiempo, el nivel de lava del fondo ira subiendo y de esta forma, ira matando a los jugadores
+y el ultimo en pie, gana.

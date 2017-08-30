@@ -1,0 +1,43 @@
+ARMAS:
+-Espada
+-Arco
+-Maso
+-Bombas
+-Panal
+-Minas
+-Lanzallamas
+-Señuelo de mi mismo: cuando el jugador contrario lo toque, se queda inmovil 3 segundos
+-Torreta:
+-Shotgun
+-shurikens
+
+VARIANTES DE LAS ARMAS COMO:
+-Arcos con flecha de fuego
+-con flechas explosivas
+
+ITEMS:
+-alas
+-Comida
+-Comida envenenada
+-
+-Posiones:
+	-Recuperacion
+	-Veneno
+	-Lentitud
+	-Inmovilidad
+	-Pocion de invisibilidad: poca duracion.
+	-Pocion de salto.
+	-Posion de convertir NPC neutral a compañero(para que ataque a nuestro enemigo solamente)
+-Pico: Permite caba a travez del mundo.
+-Mascota: animal que ayuda a vencer al oponente
+
+
+OTROS:
+-Personajes neutrales: Atacan a cualquiera de los dos que este mas cerca.
+-Si el juego, tarda demaciado, la lava del fondo, comenzara a subir su nivel, de esta forma ira matando a los
+jugadores.
+
+
+
+
+
