@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 9318ee5b6da412046a45784e17e9138b
+timeCreated: 1465316203
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ControlesUI_0
+    21300002: ControlesUI_1
+    21300004: ControlesUI_2
+    21300006: ControlesUI_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ControlesUI_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 139
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 48.5}
+        - {x: -48, y: 35.5}
+        - {x: -48, y: -42.5}
+        - {x: -29, y: -48.5}
+        - {x: 34, y: -48.5}
+        - {x: 48, y: -29.5}
+        - {x: 48, y: 32.5}
+        - {x: 27, y: 48.5}
+    - name: ControlesUI_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 149
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 40}
+        - {x: -40, y: 31}
+        - {x: -40, y: -21}
+        - {x: -32, y: -40}
+        - {x: 23, y: -40}
+        - {x: 40, y: -31}
+        - {x: 40, y: 34}
+        - {x: 22, y: 40}
+    - name: ControlesUI_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 26
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 40}
+        - {x: -40, y: 31}
+        - {x: -40, y: -21}
+        - {x: -32, y: -40}
+        - {x: 23, y: -40}
+        - {x: 40, y: -31}
+        - {x: 40, y: 34}
+        - {x: 22, y: 40}
+    - name: ControlesUI_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 24
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 40}
+        - {x: -40, y: 31}
+        - {x: -40, y: -21}
+        - {x: -32, y: -40}
+        - {x: 23, y: -40}
+        - {x: 40, y: -31}
+        - {x: 40, y: 34}
+        - {x: 22, y: 40}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

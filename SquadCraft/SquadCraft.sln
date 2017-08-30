@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquadCraft.Plugins", "SquadCraft.Plugins.csproj", "{6601CB6B-CF0D-93E4-EC2C-F531F3D8D320}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquadCraft", "SquadCraft.csproj", "{CA501BE9-F439-D431-2B34-1FAC416F773E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquadCraft.Editor", "SquadCraft.Editor.csproj", "{5300EC1E-E683-57BD-6A56-CAF93566B4F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6601CB6B-CF0D-93E4-EC2C-F531F3D8D320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6601CB6B-CF0D-93E4-EC2C-F531F3D8D320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6601CB6B-CF0D-93E4-EC2C-F531F3D8D320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6601CB6B-CF0D-93E4-EC2C-F531F3D8D320}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA501BE9-F439-D431-2B34-1FAC416F773E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA501BE9-F439-D431-2B34-1FAC416F773E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA501BE9-F439-D431-2B34-1FAC416F773E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA501BE9-F439-D431-2B34-1FAC416F773E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5300EC1E-E683-57BD-6A56-CAF93566B4F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5300EC1E-E683-57BD-6A56-CAF93566B4F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5300EC1E-E683-57BD-6A56-CAF93566B4F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5300EC1E-E683-57BD-6A56-CAF93566B4F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

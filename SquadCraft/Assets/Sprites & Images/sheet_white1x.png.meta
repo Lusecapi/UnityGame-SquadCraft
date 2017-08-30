@@ -1,0 +1,2233 @@
+fileFormatVersion: 2
+guid: 76b55d9aa28b93b418bd693672c2176c
+timeCreated: 1465319374
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: arrowDown.png
+    21300002: arrowLeft.png
+    21300004: arrowRight.png
+    21300006: arrowUp.png
+    21300008: audioOff.png
+    21300010: audioOn.png
+    21300012: backward.png
+    21300014: barsHorizontal.png
+    21300016: barsVertical.png
+    21300018: basket.png
+    21300020: button1.png
+    21300022: button2.png
+    21300024: button3.png
+    21300026: buttonA.png
+    21300028: buttonB.png
+    21300030: buttonL.png
+    21300032: buttonL1.png
+    21300034: buttonL2.png
+    21300036: buttonR.png
+    21300038: buttonR1.png
+    21300040: buttonR2.png
+    21300042: buttonSelect.png
+    21300044: buttonStart.png
+    21300046: buttonX.png
+    21300048: buttonY.png
+    21300050: cart.png
+    21300052: checkmark.png
+    21300054: contrast.png
+    21300056: cross.png
+    21300058: door.png
+    21300060: down.png
+    21300062: downLeft.png
+    21300064: downRight.png
+    21300066: exclamation.png
+    21300068: exitLeft.png
+    21300070: exitRight.png
+    21300072: export.png
+    21300074: fastForward.png
+    21300076: film.png
+    21300078: forward.png
+    21300080: gamepad.png
+    21300082: gamepad1.png
+    21300084: gamepad2.png
+    21300086: gamepad3.png
+    21300088: gamepad4.png
+    21300090: gear.png
+    21300092: home.png
+    21300094: import.png
+    21300096: information.png
+    21300098: joystick.png
+    21300100: joystickLeft.png
+    21300102: joystickRight.png
+    21300104: joystickUp.png
+    21300106: larger.png
+    21300108: leaderboardsComplex.png
+    21300110: leaderboardsSimple.png
+    21300112: locked.png
+    21300114: massiveMultiplayer.png
+    21300116: medal1.png
+    21300118: medal2.png
+    21300120: menuGrid.png
+    21300122: menuList.png
+    21300124: minus.png
+    21300126: mouse.png
+    21300128: multiplayer.png
+    21300130: musicOff.png
+    21300132: musicOn.png
+    21300134: next.png
+    21300136: open.png
+    21300138: pause.png
+    21300140: phone.png
+    21300142: plus.png
+    21300144: power.png
+    21300146: previous.png
+    21300148: question.png
+    21300150: return.png
+    21300152: rewind.png
+    21300154: save.png
+    21300156: scrollHorizontal.png
+    21300158: scrollVertical.png
+    21300160: share1.png
+    21300162: share2.png
+    21300164: signal1.png
+    21300166: signal2.png
+    21300168: signal3.png
+    21300170: singleplayer.png
+    21300172: smaller.png
+    21300174: star.png
+    21300176: stop.png
+    21300178: tablet.png
+    21300180: target.png
+    21300182: trashcan.png
+    21300184: trashcanOpen.png
+    21300186: trophy.png
+    21300188: unlocked.png
+    21300190: up.png
+    21300192: upLeft.png
+    21300194: upRight.png
+    21300196: video.png
+    21300198: warning.png
+    21300200: wrench.png
+    21300202: zoom.png
+    21300204: zoomDefault.png
+    21300206: zoomIn.png
+    21300208: zoomOut.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: arrowDown.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 412
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -16, y: 6}
+        - {x: -16, y: -4}
+        - {x: -1, y: -19}
+        - {x: 1, y: -19}
+        - {x: 16, y: -10}
+        - {x: 16, y: 7}
+        - {x: 12, y: 19}
+    - name: arrowLeft.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 462
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -19, y: 7}
+        - {x: -19, y: -4}
+        - {x: -12, y: -16}
+        - {x: 17, y: -16}
+        - {x: 19, y: -15}
+        - {x: 19, y: 9}
+        - {x: 10, y: 16}
+    - name: arrowRight.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -19, y: 12}
+        - {x: -19, y: -9}
+        - {x: -6, y: -16}
+        - {x: 8, y: -16}
+        - {x: 19, y: -1}
+        - {x: 19, y: 6}
+        - {x: 11, y: 16}
+    - name: arrowUp.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 19}
+        - {x: -16, y: 5}
+        - {x: -16, y: -9}
+        - {x: -7, y: -19}
+        - {x: 9, y: -19}
+        - {x: 16, y: -9}
+        - {x: 16, y: 4}
+        - {x: 5, y: 19}
+    - name: audioOff.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 17}
+        - {x: -18, y: 5}
+        - {x: -18, y: -7}
+        - {x: -4, y: -19}
+        - {x: 6, y: -19}
+        - {x: 6, y: 17}
+    - name: audioOn.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 17}
+        - {x: -18, y: 5}
+        - {x: -18, y: -7}
+        - {x: -4, y: -19}
+        - {x: 6, y: -19}
+        - {x: 6, y: 17}
+      - - {x: 6, y: 10}
+        - {x: 6, y: -12}
+        - {x: 7, y: -13}
+        - {x: 14, y: -13}
+        - {x: 18, y: -10}
+        - {x: 18, y: 5}
+        - {x: 16, y: 10}
+    - name: backward.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 18}
+        - {x: -12, y: 7}
+        - {x: -12, y: -2}
+        - {x: 5, y: -18}
+        - {x: 12, y: -18}
+        - {x: 12, y: 18}
+    - name: barsHorizontal.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 262
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -5}
+        - {x: -18, y: -17}
+        - {x: 22, y: -17}
+        - {x: 22, y: -5}
+      - - {x: -18, y: -5}
+        - {x: 22, y: -5}
+        - {x: 22, y: 7}
+        - {x: -18, y: 7}
+      - - {x: -16, y: 19}
+        - {x: -18, y: 17}
+        - {x: -18, y: 9}
+        - {x: -16, y: 7}
+        - {x: 20, y: 7}
+        - {x: 22, y: 9}
+        - {x: 22, y: 17}
+        - {x: 20, y: 19}
+    - name: barsVertical.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 19}
+        - {x: -18, y: -17}
+        - {x: -6, y: -17}
+        - {x: -6, y: 19}
+      - - {x: -6, y: 19}
+        - {x: -6, y: -17}
+        - {x: 6, y: -17}
+        - {x: 6, y: 19}
+      - - {x: 6, y: 19}
+        - {x: 6, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 19}
+    - name: basket.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: -7, y: 16}
+        - {x: -15, y: 7}
+        - {x: -16, y: -4}
+        - {x: -16, y: -18}
+        - {x: -13, y: -19}
+        - {x: 16, y: -19}
+        - {x: 17, y: -18}
+        - {x: 18, y: -13}
+        - {x: 18, y: 5}
+    - name: button1.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 18}
+        - {x: -17, y: 15}
+        - {x: -17, y: -13}
+        - {x: -9, y: -18}
+        - {x: 7, y: -18}
+        - {x: 13, y: -17}
+        - {x: 19, y: -9}
+        - {x: 19, y: 15}
+        - {x: 9, y: 18}
+    - name: button2.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 18}
+        - {x: -17, y: 15}
+        - {x: -17, y: -13}
+        - {x: -9, y: -18}
+        - {x: 7, y: -18}
+        - {x: 13, y: -17}
+        - {x: 19, y: -9}
+        - {x: 19, y: 15}
+        - {x: 9, y: 18}
+    - name: button3.png
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 362
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18}
+        - {x: -17, y: 10}
+        - {x: -17, y: -16}
+        - {x: -12, y: -18}
+        - {x: 19, y: -18}
+        - {x: 19, y: 13}
+        - {x: 11, y: 18}
+    - name: buttonA.png
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 312
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 18}
+        - {x: -17, y: 15}
+        - {x: -17, y: -13}
+        - {x: -9, y: -18}
+        - {x: 7, y: -18}
+        - {x: 13, y: -17}
+        - {x: 19, y: -9}
+        - {x: 19, y: 15}
+        - {x: 9, y: 18}
+    - name: buttonB.png
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 362
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 18}
+        - {x: -17, y: 15}
+        - {x: -17, y: -13}
+        - {x: -9, y: -18}
+        - {x: 7, y: -18}
+        - {x: 13, y: -17}
+        - {x: 19, y: -9}
+        - {x: 19, y: 15}
+        - {x: 9, y: 18}
+    - name: buttonL.png
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 412
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 13}
+        - {x: -21, y: 10}
+        - {x: -21, y: -13}
+        - {x: -19, y: -15}
+        - {x: 21, y: -15}
+        - {x: 21, y: 13}
+    - name: buttonL1.png
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 462
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 13}
+        - {x: -21, y: 10}
+        - {x: -21, y: -13}
+        - {x: -19, y: -15}
+        - {x: 21, y: -15}
+        - {x: 21, y: 13}
+    - name: buttonL2.png
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 13}
+        - {x: -21, y: 10}
+        - {x: -21, y: -13}
+        - {x: -19, y: -15}
+        - {x: 21, y: -15}
+        - {x: 21, y: 13}
+    - name: buttonR.png
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 62
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -13}
+        - {x: -19, y: -15}
+        - {x: 21, y: -15}
+        - {x: 21, y: 13}
+        - {x: -19, y: 13}
+        - {x: -21, y: 11}
+    - name: buttonR1.png
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 112
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -13}
+        - {x: -19, y: -15}
+        - {x: 21, y: -15}
+        - {x: 21, y: 13}
+        - {x: -19, y: 13}
+        - {x: -21, y: 11}
+    - name: buttonR2.png
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 162
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -13}
+        - {x: -19, y: -15}
+        - {x: 21, y: -15}
+        - {x: 21, y: 13}
+        - {x: -19, y: 13}
+        - {x: -21, y: 11}
+    - name: buttonSelect.png
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 212
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 13}
+        - {x: -23, y: -15}
+        - {x: 24, y: -15}
+        - {x: 24, y: 13}
+    - name: buttonStart.png
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 262
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 13}
+        - {x: -23, y: -15}
+        - {x: 24, y: -15}
+        - {x: 24, y: 13}
+    - name: buttonX.png
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 312
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 18}
+        - {x: -17, y: 15}
+        - {x: -17, y: -13}
+        - {x: -9, y: -18}
+        - {x: 7, y: -18}
+        - {x: 13, y: -17}
+        - {x: 19, y: -9}
+        - {x: 19, y: 15}
+        - {x: 9, y: 18}
+    - name: buttonY.png
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 362
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 18}
+        - {x: -17, y: 15}
+        - {x: -17, y: -13}
+        - {x: -9, y: -18}
+        - {x: 7, y: -18}
+        - {x: 13, y: -17}
+        - {x: 19, y: -9}
+        - {x: 19, y: 15}
+        - {x: 9, y: 18}
+    - name: cart.png
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 412
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 14}
+        - {x: -18, y: 14}
+        - {x: -18, y: 4}
+        - {x: -10, y: -20}
+        - {x: 15, y: -20}
+        - {x: 19, y: -19}
+        - {x: 19, y: 12}
+    - name: checkmark.png
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 462
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 15}
+        - {x: -18, y: 6}
+        - {x: -18, y: -2}
+        - {x: -6, y: -17}
+        - {x: 6, y: -17}
+        - {x: 18, y: -2}
+        - {x: 18, y: 15}
+    - name: contrast.png
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 18}
+        - {x: -16, y: 18}
+        - {x: -19, y: 10}
+        - {x: -19, y: -16}
+        - {x: -9, y: -19}
+        - {x: 11, y: -19}
+        - {x: 16, y: -14}
+        - {x: 17, y: -9}
+        - {x: 17, y: 9}
+    - name: cross.png
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 62
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17}
+        - {x: -18, y: -19}
+        - {x: 16, y: -19}
+        - {x: 18, y: -18}
+        - {x: 18, y: 17}
+    - name: door.png
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 112
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 17}
+        - {x: -14, y: 15}
+        - {x: -14, y: -18}
+        - {x: -10, y: -20}
+        - {x: 15, y: -20}
+        - {x: 15, y: 17}
+    - name: down.png
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 162
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 12}
+        - {x: -17, y: 4}
+        - {x: 0, y: -12}
+        - {x: 2, y: -12}
+        - {x: 19, y: 5}
+        - {x: 19, y: 12}
+    - name: downLeft.png
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 212
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 11}
+        - {x: 9, y: 15}
+        - {x: -2, y: 15}
+        - {x: -12, y: 9}
+        - {x: -15, y: 6}
+        - {x: -15, y: -15}
+        - {x: -13, y: -17}
+        - {x: 8, y: -17}
+        - {x: 12, y: -13}
+        - {x: 12, y: -11}
+        - {x: 17, y: 1}
+    - name: downRight.png
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 262
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -7}
+        - {x: -13, y: -15}
+        - {x: -6, y: -17}
+        - {x: 17, y: -17}
+        - {x: 17, y: 8}
+        - {x: 16, y: 13}
+        - {x: -3, y: 15}
+        - {x: -8, y: 15}
+        - {x: -15, y: 11}
+    - name: exclamation.png
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 312
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 15}
+        - {x: -6, y: -18}
+        - {x: -4, y: -19}
+        - {x: 6, y: -19}
+        - {x: 6, y: 15}
+    - name: exitLeft.png
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 362
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 14}
+        - {x: -18, y: 0}
+        - {x: -18, y: -11}
+        - {x: -13, y: -18}
+        - {x: 17, y: -18}
+        - {x: 17, y: 14}
+    - name: exitRight.png
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 412
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 14}
+        - {x: -15, y: -18}
+        - {x: 16, y: -18}
+        - {x: 20, y: -9}
+        - {x: 20, y: 5}
+        - {x: 6, y: 14}
+    - name: export.png
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 462
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 1}
+        - {x: -18, y: -19}
+        - {x: 18, y: -19}
+        - {x: 18, y: 1}
+      - - {x: -5, y: 17}
+        - {x: -10, y: 12}
+        - {x: -10, y: -2}
+        - {x: -9, y: -7}
+        - {x: 7, y: -7}
+        - {x: 10, y: -1}
+        - {x: 10, y: 11}
+        - {x: 1, y: 17}
+    - name: fastForward.png
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 17}
+        - {x: -20, y: 15}
+        - {x: -20, y: -19}
+        - {x: 10, y: -19}
+        - {x: 22, y: -7}
+        - {x: 22, y: 11}
+        - {x: 17, y: 17}
+    - name: film.png
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 62
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: -16, y: -19}
+        - {x: 18, y: -19}
+        - {x: 18, y: 17}
+    - name: forward.png
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 112
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18}
+        - {x: -12, y: -16}
+        - {x: -10, y: -18}
+        - {x: -1, y: -18}
+        - {x: 12, y: -2}
+        - {x: 12, y: 5}
+        - {x: -2, y: 18}
+    - name: gamepad.png
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 162
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 7}
+        - {x: -22, y: -13}
+        - {x: -21, y: -15}
+        - {x: 22, y: -15}
+        - {x: 22, y: 8}
+        - {x: 21, y: 11}
+        - {x: 3, y: 16}
+        - {x: -6, y: 16}
+        - {x: -20, y: 9}
+    - name: gamepad1.png
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 212
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 19}
+        - {x: -21, y: 12}
+        - {x: -21, y: -18}
+        - {x: 10, y: -22}
+        - {x: 23, y: -22}
+        - {x: 23, y: -1}
+        - {x: 17, y: 19}
+    - name: gamepad2.png
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 262
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 19}
+        - {x: -21, y: 15}
+        - {x: -21, y: -4}
+        - {x: -9, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 9}
+        - {x: 12, y: 19}
+    - name: gamepad3.png
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 312
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 19}
+        - {x: -21, y: 15}
+        - {x: -21, y: 0}
+        - {x: -17, y: -10}
+        - {x: -9, y: -10}
+        - {x: 8, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 12}
+        - {x: 14, y: 19}
+    - name: gamepad4.png
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 362
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -21, y: 13}
+        - {x: -21, y: 0}
+        - {x: -17, y: -10}
+        - {x: 4, y: -22}
+        - {x: 20, y: -22}
+        - {x: 22, y: -21}
+        - {x: 22, y: -1}
+        - {x: 15, y: 18}
+        - {x: 13, y: 19}
+    - name: gear.png
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 412
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 17}
+        - {x: -17, y: 11}
+        - {x: -17, y: -11}
+        - {x: -11, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 17}
+    - name: home.png
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 462
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 18}
+        - {x: 0, y: 18}
+        - {x: -17, y: 5}
+        - {x: -17, y: -7}
+        - {x: -13, y: -18}
+        - {x: 14, y: -18}
+        - {x: 17, y: -17}
+        - {x: 19, y: -4}
+        - {x: 19, y: 1}
+    - name: import.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 17}
+        - {x: -18, y: 2}
+        - {x: -18, y: -18}
+        - {x: -16, y: -19}
+        - {x: 18, y: -19}
+        - {x: 18, y: 3}
+        - {x: 6, y: 17}
+    - name: information.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 62
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 18}
+        - {x: -10, y: 18}
+        - {x: -10, y: -20}
+        - {x: 12, y: -20}
+        - {x: 12, y: 7}
+        - {x: 11, y: 16}
+    - name: joystick.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 112
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 17}
+        - {x: -13, y: 16}
+        - {x: -18, y: 5}
+        - {x: -18, y: -19}
+        - {x: 16, y: -19}
+        - {x: 18, y: -17}
+        - {x: 18, y: -5}
+        - {x: 10, y: 17}
+    - name: joystickLeft.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 162
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 18}
+        - {x: -16, y: 13}
+        - {x: -16, y: -21}
+        - {x: 18, y: -21}
+        - {x: 18, y: -7}
+        - {x: 17, y: -4}
+        - {x: 8, y: 12}
+        - {x: 2, y: 18}
+    - name: joystickRight.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 212
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 18}
+        - {x: -3, y: 18}
+        - {x: -9, y: 12}
+        - {x: -16, y: -7}
+        - {x: -16, y: -21}
+        - {x: 18, y: -21}
+        - {x: 18, y: 16}
+    - name: joystickUp.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 262
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 18}
+        - {x: -16, y: -21}
+        - {x: 18, y: -21}
+        - {x: 18, y: 18}
+    - name: larger.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 312
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -3}
+        - {x: -17, y: -19}
+        - {x: -1, y: -19}
+        - {x: -1, y: -4}
+        - {x: -2, y: -3}
+      - - {x: 3, y: -3}
+        - {x: 3, y: -18}
+        - {x: 5, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: -3}
+      - - {x: -17, y: 17}
+        - {x: -17, y: 1}
+        - {x: -2, y: 1}
+        - {x: -1, y: 2}
+        - {x: -1, y: 17}
+      - - {x: 3, y: 17}
+        - {x: 3, y: 2}
+        - {x: 4, y: 1}
+        - {x: 19, y: 1}
+        - {x: 19, y: 17}
+    - name: leaderboardsComplex.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 362
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 14}
+        - {x: -10, y: 14}
+        - {x: -18, y: 5}
+        - {x: -18, y: -18}
+        - {x: 18, y: -18}
+        - {x: 20, y: -16}
+        - {x: 20, y: 2}
+    - name: leaderboardsSimple.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 412
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 9}
+        - {x: -21, y: 9}
+        - {x: -21, y: -19}
+        - {x: 17, y: -19}
+        - {x: 19, y: -17}
+        - {x: 19, y: -1}
+    - name: locked.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 462
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 17}
+        - {x: -17, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 12}
+        - {x: 18, y: 17}
+    - name: massiveMultiplayer.png
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 14}
+        - {x: -22, y: 7}
+        - {x: -22, y: -8}
+        - {x: -19, y: -14}
+        - {x: -13, y: -18}
+        - {x: 19, y: -18}
+        - {x: 23, y: -17}
+        - {x: 23, y: 5}
+        - {x: 18, y: 14}
+    - name: medal1.png
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 62
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 17}
+        - {x: -11, y: 17}
+        - {x: -13, y: 10}
+        - {x: -13, y: -11}
+        - {x: -7, y: -21}
+        - {x: 8, y: -21}
+        - {x: 15, y: -4}
+        - {x: 15, y: 11}
+    - name: medal2.png
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 112
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 8}
+        - {x: 9, y: 17}
+        - {x: -6, y: 17}
+        - {x: -13, y: 11}
+        - {x: -16, y: -11}
+        - {x: -16, y: -16}
+        - {x: -13, y: -21}
+        - {x: 12, y: -21}
+        - {x: 18, y: -16}
+        - {x: 18, y: -12}
+    - name: menuGrid.png
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 162
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -5}
+        - {x: -18, y: -17}
+        - {x: -8, y: -17}
+        - {x: -6, y: -15}
+        - {x: -6, y: -7}
+        - {x: -8, y: -5}
+      - - {x: -4, y: -5}
+        - {x: -6, y: -7}
+        - {x: -6, y: -15}
+        - {x: -4, y: -17}
+        - {x: 4, y: -17}
+        - {x: 6, y: -15}
+        - {x: 6, y: -7}
+        - {x: 4, y: -5}
+      - - {x: 6, y: -15}
+        - {x: 7, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -5}
+        - {x: 8, y: -5}
+        - {x: 6, y: -7}
+      - - {x: -18, y: 7}
+        - {x: -18, y: -5}
+        - {x: -8, y: -5}
+        - {x: -6, y: -3}
+        - {x: -6, y: 5}
+        - {x: -8, y: 7}
+      - - {x: -4, y: 7}
+        - {x: -6, y: 5}
+        - {x: -6, y: -3}
+        - {x: -4, y: -5}
+        - {x: 4, y: -5}
+        - {x: 6, y: -3}
+        - {x: 6, y: 5}
+        - {x: 4, y: 7}
+      - - {x: 8, y: 7}
+        - {x: 6, y: 5}
+        - {x: 6, y: -3}
+        - {x: 8, y: -5}
+        - {x: 18, y: -5}
+        - {x: 18, y: 7}
+      - - {x: -18, y: 7}
+        - {x: -6, y: 7}
+        - {x: -6, y: 17}
+        - {x: -7, y: 19}
+        - {x: -18, y: 19}
+      - - {x: -6, y: 19}
+        - {x: -6, y: 7}
+        - {x: 6, y: 7}
+        - {x: 6, y: 19}
+      - - {x: 6, y: 19}
+        - {x: 6, y: 7}
+        - {x: 18, y: 7}
+        - {x: 18, y: 19}
+    - name: menuList.png
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 212
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -5}
+        - {x: -18, y: -17}
+        - {x: -8, y: -17}
+        - {x: -6, y: -15}
+        - {x: -6, y: -7}
+        - {x: -8, y: -5}
+      - - {x: -4, y: -5}
+        - {x: -6, y: -7}
+        - {x: -6, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -5}
+      - - {x: -18, y: 7}
+        - {x: -18, y: -5}
+        - {x: -8, y: -5}
+        - {x: -6, y: -3}
+        - {x: -6, y: 5}
+        - {x: -8, y: 7}
+      - - {x: -4, y: 7}
+        - {x: -6, y: 5}
+        - {x: -6, y: -3}
+        - {x: -4, y: -5}
+        - {x: 18, y: -5}
+        - {x: 18, y: 7}
+      - - {x: -18, y: 7}
+        - {x: -6, y: 7}
+        - {x: -6, y: 17}
+        - {x: -7, y: 19}
+        - {x: -18, y: 19}
+      - - {x: -6, y: 19}
+        - {x: -6, y: 7}
+        - {x: 18, y: 7}
+        - {x: 18, y: 19}
+    - name: minus.png
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 262
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 5}
+        - {x: -17, y: -7}
+        - {x: 19, y: -7}
+        - {x: 19, y: 5}
+    - name: mouse.png
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 312
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 18}
+        - {x: -15, y: -14}
+        - {x: -6, y: -21}
+        - {x: 16, y: -21}
+        - {x: 17, y: -18}
+        - {x: 17, y: 18}
+    - name: multiplayer.png
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 262
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 13}
+        - {x: -16, y: 7}
+        - {x: -19, y: 2}
+        - {x: -19, y: -11}
+        - {x: -18, y: -15}
+        - {x: 16, y: -15}
+        - {x: 20, y: -13}
+        - {x: 20, y: 10}
+        - {x: 12, y: 13}
+    - name: musicOff.png
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 412
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -19}
+        - {x: 18, y: -19}
+        - {x: 18, y: 16}
+        - {x: -7, y: 16}
+        - {x: -16, y: 14}
+    - name: musicOn.png
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 462
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -16, y: 1}
+        - {x: -16, y: -19}
+        - {x: 2, y: -19}
+        - {x: 12, y: -16}
+        - {x: 15, y: -10}
+        - {x: 15, y: 16}
+    - name: next.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 17}
+        - {x: -16, y: -19}
+        - {x: 16, y: -19}
+        - {x: 16, y: 17}
+    - name: open.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 62
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17}
+        - {x: -17, y: 15}
+        - {x: -17, y: -13}
+        - {x: -16, y: -16}
+        - {x: -5, y: -19}
+        - {x: 5, y: -19}
+        - {x: 19, y: -2}
+        - {x: 19, y: 0}
+        - {x: 9, y: 17}
+    - name: pause.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 112
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 17}
+        - {x: -16, y: -17}
+        - {x: 0, y: -17}
+        - {x: 0, y: 17}
+        - {x: -2, y: 19}
+        - {x: -14, y: 19}
+      - - {x: 2, y: 19}
+        - {x: 0, y: 17}
+        - {x: 0, y: -17}
+        - {x: 16, y: -17}
+        - {x: 16, y: 19}
+    - name: phone.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 162
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 19}
+        - {x: -14, y: -19}
+        - {x: 12, y: -19}
+        - {x: 13, y: -17}
+        - {x: 13, y: 19}
+    - name: plus.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 212
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 4}
+        - {x: -17, y: -10}
+        - {x: -13, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 9}
+        - {x: 15, y: 17}
+        - {x: -7, y: 17}
+        - {x: -16, y: 7}
+    - name: power.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 262
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 17}
+        - {x: -4, y: 15}
+        - {x: -4, y: 8}
+        - {x: -4, y: 10}
+        - {x: -7, y: 14}
+        - {x: -16, y: 13}
+        - {x: -18, y: 3}
+        - {x: -18, y: -14}
+        - {x: -11, y: -21}
+        - {x: 8, y: -21}
+        - {x: 20, y: -17}
+        - {x: 20, y: 10}
+        - {x: 10, y: 17}
+    - name: previous.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 312
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -17}
+        - {x: 16, y: 17}
+        - {x: -16, y: 17}
+        - {x: -16, y: -17}
+        - {x: -14, y: -19}
+        - {x: -6, y: -19}
+        - {x: -4, y: -17}
+        - {x: 9, y: -19}
+        - {x: 14, y: -19}
+    - name: question.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 362
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -12, y: 12}
+        - {x: -12, y: -4}
+        - {x: -8, y: -20}
+        - {x: 7, y: -20}
+        - {x: 10, y: -19}
+        - {x: 12, y: -13}
+        - {x: 12, y: 13}
+        - {x: 10, y: 16}
+    - name: return.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 412
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 14}
+        - {x: -16, y: -11}
+        - {x: -15, y: -17}
+        - {x: -11, y: -18}
+        - {x: 13, y: -18}
+        - {x: 19, y: -12}
+        - {x: 19, y: 7}
+        - {x: 17, y: 14}
+    - name: rewind.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 462
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 17}
+        - {x: -20, y: 0}
+        - {x: -20, y: -5}
+        - {x: -6, y: -19}
+        - {x: 21, y: -19}
+        - {x: 22, y: -17}
+        - {x: 22, y: 17}
+    - name: save.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 17}
+        - {x: -18, y: 15}
+        - {x: -18, y: -17}
+        - {x: -16, y: -19}
+        - {x: 16, y: -19}
+        - {x: 18, y: -17}
+        - {x: 18, y: 8}
+        - {x: 9, y: 17}
+    - name: scrollHorizontal.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 62
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -17, y: 8}
+        - {x: -17, y: -5}
+        - {x: -6, y: -14}
+        - {x: 8, y: -14}
+        - {x: 17, y: -6}
+        - {x: 17, y: 4}
+        - {x: 10, y: 16}
+    - name: scrollVertical.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 112
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 18}
+        - {x: -15, y: 8}
+        - {x: -15, y: -3}
+        - {x: -2, y: -16}
+        - {x: 2, y: -16}
+        - {x: 15, y: -4}
+        - {x: 15, y: 6}
+        - {x: 5, y: 18}
+    - name: share1.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 162
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -7}
+        - {x: 16, y: -9}
+        - {x: 17, y: -6}
+        - {x: 17, y: 15}
+        - {x: -8, y: 15}
+        - {x: -14, y: 10}
+        - {x: -16, y: 8}
+        - {x: -16, y: -16}
+        - {x: -14, y: -18}
+        - {x: 10, y: -18}
+        - {x: 12, y: -16}
+        - {x: 12, y: -8}
+        - {x: 11, y: -6}
+    - name: share2.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 212
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -1}
+        - {x: 12, y: 0}
+        - {x: 19, y: 3}
+        - {x: 19, y: 19}
+        - {x: -13, y: 19}
+        - {x: -19, y: 17}
+        - {x: -19, y: -10}
+        - {x: -3, y: -18}
+        - {x: 4, y: -21}
+        - {x: 19, y: -21}
+        - {x: 19, y: -4}
+        - {x: 15, y: -2}
+    - name: signal1.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 262
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 1}
+        - {x: -18, y: -19}
+        - {x: -8, y: -19}
+        - {x: -6, y: -17}
+        - {x: -6, y: -1}
+        - {x: -8, y: 1}
+    - name: signal2.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 312
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 1}
+        - {x: -18, y: -19}
+        - {x: -8, y: -19}
+        - {x: -6, y: -17}
+        - {x: -6, y: -1}
+        - {x: -8, y: 1}
+      - - {x: -6, y: 9}
+        - {x: -6, y: -19}
+        - {x: 6, y: -19}
+        - {x: 6, y: 9}
+    - name: signal3.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 362
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 1}
+        - {x: -18, y: -19}
+        - {x: -8, y: -19}
+        - {x: -6, y: -17}
+        - {x: -6, y: -1}
+        - {x: -8, y: 1}
+      - - {x: -6, y: 9}
+        - {x: -6, y: -19}
+        - {x: 6, y: -19}
+        - {x: 6, y: 9}
+      - - {x: 6, y: 17}
+        - {x: 6, y: -17}
+        - {x: 8, y: -19}
+        - {x: 18, y: -19}
+        - {x: 18, y: 17}
+    - name: singleplayer.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 412
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 17}
+        - {x: -11, y: 12}
+        - {x: -16, y: -4}
+        - {x: -16, y: -15}
+        - {x: -14, y: -19}
+        - {x: 13, y: -19}
+        - {x: 16, y: -18}
+        - {x: 16, y: 2}
+        - {x: 6, y: 17}
+    - name: smaller.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 462
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -3}
+        - {x: -17, y: -4}
+        - {x: -17, y: -18}
+        - {x: -16, y: -19}
+        - {x: -2, y: -19}
+        - {x: -1, y: -17}
+        - {x: -1, y: -5}
+        - {x: -3, y: -3}
+      - - {x: 3, y: -3}
+        - {x: 3, y: -19}
+        - {x: 18, y: -19}
+        - {x: 19, y: -18}
+        - {x: 19, y: -3}
+      - - {x: -16, y: 17}
+        - {x: -17, y: 16}
+        - {x: -17, y: 2}
+        - {x: -15, y: 1}
+        - {x: -3, y: 1}
+        - {x: -1, y: 2}
+        - {x: -1, y: 17}
+      - - {x: 3, y: 17}
+        - {x: 3, y: 1}
+        - {x: 19, y: 1}
+        - {x: 19, y: 16}
+        - {x: 18, y: 17}
+    - name: star.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 17}
+        - {x: -18, y: 7}
+        - {x: -18, y: -2}
+        - {x: -13, y: -16}
+        - {x: -12, y: -17}
+        - {x: 12, y: -17}
+        - {x: 18, y: 0}
+        - {x: 18, y: 6}
+        - {x: 5, y: 17}
+    - name: stop.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 62
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -17, y: 14}
+        - {x: -17, y: -16}
+        - {x: -15, y: -18}
+        - {x: 17, y: -18}
+        - {x: 17, y: 16}
+    - name: tablet.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 112
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -16, y: -17}
+        - {x: -14, y: -19}
+        - {x: 13, y: -19}
+        - {x: 15, y: -17}
+        - {x: 15, y: 19}
+    - name: target.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 162
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 17}
+        - {x: -17, y: 13}
+        - {x: -17, y: -17}
+        - {x: -12, y: -19}
+        - {x: 15, y: -19}
+        - {x: 19, y: -14}
+        - {x: 19, y: 9}
+        - {x: 17, y: 17}
+    - name: trashcan.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 212
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18}
+        - {x: -14, y: -21}
+        - {x: 14, y: -21}
+        - {x: 14, y: 14}
+        - {x: 6, y: 18}
+    - name: trashcanOpen.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 262
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 22}
+        - {x: -16, y: 17}
+        - {x: -16, y: -21}
+        - {x: 14, y: -21}
+        - {x: 14, y: 19}
+        - {x: 9, y: 22}
+    - name: trophy.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 312
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 13}
+        - {x: -18, y: -11}
+        - {x: -13, y: -19}
+        - {x: 17, y: -19}
+        - {x: 18, y: -14}
+        - {x: 18, y: 13}
+    - name: unlocked.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 362
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 20}
+        - {x: -13, y: 20}
+        - {x: -17, y: 9}
+        - {x: -17, y: -22}
+        - {x: 19, y: -22}
+        - {x: 19, y: 13}
+        - {x: 18, y: 19}
+    - name: up.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 412
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -18, y: -1}
+        - {x: -18, y: -10}
+        - {x: -16, y: -12}
+        - {x: 18, y: -12}
+        - {x: 18, y: -2}
+        - {x: 5, y: 12}
+    - name: upLeft.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 462
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 15}
+        - {x: -15, y: 15}
+        - {x: -15, y: -12}
+        - {x: 0, y: -17}
+        - {x: 14, y: -17}
+        - {x: 17, y: -14}
+        - {x: 17, y: 5}
+        - {x: 15, y: 13}
+    - name: upRight.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 15}
+        - {x: -10, y: 11}
+        - {x: -10, y: 9}
+        - {x: -15, y: -5}
+        - {x: -15, y: -9}
+        - {x: -11, y: -17}
+        - {x: 7, y: -17}
+        - {x: 15, y: -15}
+        - {x: 17, y: -13}
+        - {x: 17, y: 15}
+    - name: video.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 62
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 20}
+        - {x: 2, y: 20}
+        - {x: -19, y: 13}
+        - {x: -19, y: -19}
+        - {x: 17, y: -19}
+        - {x: 17, y: 5}
+        - {x: 16, y: 18}
+    - name: warning.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 112
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 16}
+        - {x: -18, y: -7}
+        - {x: -18, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: -7}
+        - {x: 4, y: 16}
+    - name: wrench.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 162
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 17}
+        - {x: -17, y: 11}
+        - {x: -17, y: -3}
+        - {x: -11, y: -9}
+        - {x: 4, y: -18}
+        - {x: 7, y: -19}
+        - {x: 14, y: -19}
+        - {x: 19, y: -18}
+        - {x: 19, y: -2}
+        - {x: 10, y: 17}
+    - name: zoom.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 212
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 17}
+        - {x: -17, y: 12}
+        - {x: -17, y: -12}
+        - {x: 1, y: -20}
+        - {x: 18, y: -20}
+        - {x: 19, y: -18}
+        - {x: 19, y: 1}
+        - {x: 7, y: 17}
+    - name: zoomDefault.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 262
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 17}
+        - {x: -17, y: 12}
+        - {x: -17, y: -12}
+        - {x: 1, y: -20}
+        - {x: 18, y: -20}
+        - {x: 19, y: -18}
+        - {x: 19, y: 1}
+        - {x: 7, y: 17}
+    - name: zoomIn.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 312
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 17}
+        - {x: -17, y: 12}
+        - {x: -17, y: -12}
+        - {x: 1, y: -20}
+        - {x: 18, y: -20}
+        - {x: 19, y: -18}
+        - {x: 19, y: 1}
+        - {x: 7, y: 17}
+    - name: zoomOut.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 362
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 17}
+        - {x: -17, y: 12}
+        - {x: -17, y: -12}
+        - {x: 1, y: -20}
+        - {x: 18, y: -20}
+        - {x: 19, y: -18}
+        - {x: 19, y: 1}
+        - {x: 7, y: 17}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

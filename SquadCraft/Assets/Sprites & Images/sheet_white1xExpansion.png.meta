@@ -1,0 +1,1698 @@
+fileFormatVersion: 2
+guid: 781566cce680b441096ad7ce21209e56
+timeCreated: 1466179673
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DPAD.png
+    21300002: DPAD_all.png
+    21300004: DPAD_down.png
+    21300006: DPAD_left.png
+    21300008: DPAD_right.png
+    21300010: DPAD_up.png
+    21300012: car.png
+    21300014: cloud.png
+    21300016: cloudUpload.png
+    21300018: coin.png
+    21300020: controllerTilt.png
+    21300022: controllerTilt_left.png
+    21300024: controllerTilt_right.png
+    21300026: cpu.png
+    21300028: cursor.png
+    21300030: deviceTilt.png
+    21300032: deviceTilt_left.png
+    21300034: deviceTilt_right.png
+    21300036: diamond.png
+    21300038: download.png
+    21300040: fightFist.png
+    21300042: fightFist_circle.png
+    21300044: fightJ.png
+    21300046: fightJoy_00.png
+    21300048: fightJoy_01.png
+    21300050: fightJoy_02.png
+    21300052: fightJoy_03.png
+    21300054: fightJoy_04.png
+    21300056: fightJoy_05.png
+    21300058: fightJoy_06.png
+    21300060: fightJoy_07.png
+    21300062: fightJoy_08.png
+    21300064: fightJoy_09.png
+    21300066: fightJoy_10.png
+    21300068: fightJoy_11.png
+    21300070: fightJoy_12.png
+    21300072: fightJoy_13.png
+    21300074: fightJoy_14.png
+    21300076: fightJoy_15.png
+    21300078: fightJoy_16.png
+    21300080: fightJoy_17.png
+    21300082: fightJoy_18.png
+    21300084: fightJoy_19.png
+    21300086: fightJoy_20.png
+    21300088: fightJoy_21.png
+    21300090: fightJoy_22.png
+    21300092: fightJoy_23.png
+    21300094: fightJoy_24.png
+    21300096: fightJoy_25.png
+    21300098: fightJoy_26.png
+    21300100: fightJoy_27.png
+    21300102: fightJoy_28.png
+    21300104: fightJoy_29.png
+    21300106: fightJoy_30.png
+    21300108: fightJoy_31.png
+    21300110: figurine.png
+    21300112: fistPlus.png
+    21300114: flag.png
+    21300116: joystick.png
+    21300118: joystickL_side.png
+    21300120: joystickL_top.png
+    21300122: joystickLeft.png
+    21300124: joystickR_side.png
+    21300126: joystickR_top.png
+    21300128: joystickRight.png
+    21300130: key.png
+    21300132: keyLarge.png
+    21300134: keyLarge_3d.png
+    21300136: keySmall.png
+    21300138: keySmall_3d.png
+    21300140: mouse.png
+    21300142: mouseLeft.png
+    21300144: mouseMiddle.png
+    21300146: mouseRight.png
+    21300148: pointer.png
+    21300150: toolBrush.png
+    21300152: toolEraser.png
+    21300154: toolFill.png
+    21300156: toolPencil.png
+    21300158: upload.png
+    21300160: userRobot.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: DPAD.png
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 312
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -19, y: 11}
+        - {x: -20, y: 8}
+        - {x: -20, y: -17}
+        - {x: -18, y: -21}
+        - {x: 14, y: -21}
+        - {x: 20, y: -19}
+        - {x: 20, y: 15}
+        - {x: 8, y: 19}
+    - name: DPAD_all.png
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 362
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -19, y: 11}
+        - {x: -20, y: 8}
+        - {x: -20, y: -17}
+        - {x: -18, y: -21}
+        - {x: 14, y: -21}
+        - {x: 20, y: -19}
+        - {x: 20, y: 15}
+        - {x: 8, y: 19}
+    - name: DPAD_down.png
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 412
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -19, y: 11}
+        - {x: -20, y: 8}
+        - {x: -20, y: -17}
+        - {x: -18, y: -21}
+        - {x: 14, y: -21}
+        - {x: 20, y: -19}
+        - {x: 20, y: 15}
+        - {x: 8, y: 19}
+    - name: DPAD_left.png
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 462
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -19, y: 11}
+        - {x: -20, y: 8}
+        - {x: -20, y: -17}
+        - {x: -18, y: -21}
+        - {x: 14, y: -21}
+        - {x: 20, y: -19}
+        - {x: 20, y: 15}
+        - {x: 8, y: 19}
+    - name: DPAD_right.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -19, y: 11}
+        - {x: -20, y: 8}
+        - {x: -20, y: -17}
+        - {x: -18, y: -21}
+        - {x: 14, y: -21}
+        - {x: 20, y: -19}
+        - {x: 20, y: 15}
+        - {x: 8, y: 19}
+    - name: DPAD_up.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 62
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -19, y: 11}
+        - {x: -20, y: 8}
+        - {x: -20, y: -17}
+        - {x: -18, y: -21}
+        - {x: 14, y: -21}
+        - {x: 20, y: -19}
+        - {x: 20, y: 15}
+        - {x: 8, y: 19}
+    - name: car.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 15}
+        - {x: -21, y: 4}
+        - {x: -21, y: -14}
+        - {x: -15, y: -17}
+        - {x: 17, y: -17}
+        - {x: 22, y: -13}
+        - {x: 22, y: 4}
+        - {x: 10, y: 15}
+    - name: cloud.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -21, y: -3}
+        - {x: -21, y: -13}
+        - {x: -15, y: -17}
+        - {x: 23, y: -17}
+        - {x: 24, y: -12}
+        - {x: 24, y: 1}
+        - {x: 12, y: 13}
+    - name: cloudUpload.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 262
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -17}
+        - {x: 24, y: -12}
+        - {x: 24, y: 1}
+        - {x: 12, y: 13}
+        - {x: -11, y: 13}
+        - {x: -21, y: -3}
+        - {x: -21, y: -14}
+        - {x: -13, y: -17}
+        - {x: 2, y: -17}
+        - {x: 4, y: -15}
+        - {x: 6, y: -17}
+    - name: coin.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 18}
+        - {x: -17, y: 15}
+        - {x: -17, y: -13}
+        - {x: -9, y: -18}
+        - {x: 7, y: -18}
+        - {x: 13, y: -17}
+        - {x: 19, y: -9}
+        - {x: 19, y: 15}
+        - {x: 9, y: 18}
+    - name: controllerTilt.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 10}
+        - {x: -22, y: -14}
+        - {x: 22, y: -14}
+        - {x: 22, y: 10}
+    - name: controllerTilt_left.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 20}
+        - {x: 6, y: 23}
+        - {x: -17, y: 23}
+        - {x: -24, y: 9}
+        - {x: -24, y: -16}
+        - {x: -20, y: -25}
+        - {x: -6, y: -25}
+        - {x: -4, y: -24}
+        - {x: 24, y: -16}
+        - {x: 24, y: -5}
+        - {x: 21, y: 7}
+    - name: controllerTilt_right.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 23}
+        - {x: -19, y: 21}
+        - {x: -24, y: -3}
+        - {x: -24, y: -16}
+        - {x: 3, y: -25}
+        - {x: 24, y: -25}
+        - {x: 24, y: 3}
+        - {x: 14, y: 23}
+    - name: cpu.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 462
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21}
+        - {x: -17, y: -23}
+        - {x: 17, y: -23}
+        - {x: 17, y: 21}
+    - name: cursor.png
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 18}
+        - {x: -13, y: 17}
+        - {x: -13, y: -11}
+        - {x: -2, y: -17}
+        - {x: 11, y: -17}
+        - {x: 14, y: -13}
+        - {x: 14, y: 6}
+        - {x: -3, y: 18}
+    - name: deviceTilt.png
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 62
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 10}
+        - {x: -22, y: -14}
+        - {x: 22, y: -14}
+        - {x: 22, y: 10}
+    - name: deviceTilt_left.png
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 112
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 20}
+        - {x: 6, y: 23}
+        - {x: -17, y: 23}
+        - {x: -24, y: 9}
+        - {x: -24, y: -16}
+        - {x: -20, y: -25}
+        - {x: -6, y: -25}
+        - {x: -4, y: -24}
+        - {x: 24, y: -16}
+        - {x: 24, y: -5}
+        - {x: 21, y: 7}
+    - name: deviceTilt_right.png
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 162
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 23}
+        - {x: -19, y: 21}
+        - {x: -24, y: -3}
+        - {x: -24, y: -16}
+        - {x: 3, y: -25}
+        - {x: 24, y: -25}
+        - {x: 24, y: 3}
+        - {x: 14, y: 23}
+    - name: diamond.png
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 212
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 14}
+        - {x: -17, y: 11}
+        - {x: -17, y: 1}
+        - {x: -15, y: -4}
+        - {x: -2, y: -17}
+        - {x: 6, y: -17}
+        - {x: 20, y: 1}
+        - {x: 20, y: 12}
+        - {x: 14, y: 14}
+    - name: download.png
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 262
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 20}
+        - {x: -18, y: 9}
+        - {x: -18, y: -22}
+        - {x: 18, y: -22}
+        - {x: 18, y: 15}
+        - {x: 9, y: 20}
+    - name: fightFist.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 112
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -19, y: 1}
+        - {x: -19, y: -1}
+        - {x: -5, y: -18}
+        - {x: 4, y: -18}
+        - {x: 8, y: -17}
+        - {x: 16, y: -11}
+        - {x: 16, y: 6}
+        - {x: 14, y: 16}
+    - name: fightFist_circle.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 162
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 22}
+        - {x: -22, y: 13}
+        - {x: -22, y: -13}
+        - {x: -21, y: -16}
+        - {x: -9, y: -24}
+        - {x: 13, y: -24}
+        - {x: 24, y: -14}
+        - {x: 24, y: 17}
+        - {x: 12, y: 22}
+    - name: fightJ.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 212
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -13, y: 10}
+        - {x: -13, y: -9}
+        - {x: -9, y: -14}
+        - {x: 9, y: -14}
+        - {x: 15, y: -12}
+        - {x: 15, y: 11}
+        - {x: 9, y: 14}
+    - name: fightJoy_00.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 262
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 21}
+        - {x: -24, y: 7}
+        - {x: -24, y: -6}
+        - {x: -21, y: -8}
+        - {x: -4, y: -8}
+        - {x: 23, y: -5}
+        - {x: 23, y: 8}
+        - {x: 21, y: 13}
+        - {x: 10, y: 21}
+    - name: fightJoy_01.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 312
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 2}
+        - {x: -10, y: 4}
+        - {x: -21, y: 4}
+        - {x: -21, y: -7}
+        - {x: -15, y: -22}
+        - {x: 12, y: -22}
+        - {x: 25, y: -14}
+        - {x: 25, y: 2}
+        - {x: 19, y: 8}
+        - {x: 17, y: 8}
+    - name: fightJoy_02.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 362
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 14}
+        - {x: -23, y: 10}
+        - {x: -23, y: -20}
+        - {x: -16, y: -22}
+        - {x: 9, y: -22}
+        - {x: 15, y: -12}
+        - {x: 15, y: 10}
+        - {x: 11, y: 14}
+    - name: fightJoy_03.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 412
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 14}
+        - {x: -10, y: 14}
+        - {x: -13, y: 8}
+        - {x: -13, y: -14}
+        - {x: -5, y: -21}
+        - {x: -3, y: -22}
+        - {x: 14, y: -22}
+        - {x: 25, y: -7}
+        - {x: 25, y: 5}
+        - {x: 21, y: 11}
+    - name: fightJoy_04.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 462
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 24}
+        - {x: -19, y: 13}
+        - {x: -21, y: 7}
+        - {x: -21, y: -2}
+        - {x: -10, y: -14}
+        - {x: 9, y: -14}
+        - {x: 15, y: -12}
+        - {x: 15, y: 15}
+        - {x: 7, y: 24}
+    - name: fightJoy_05.png
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -25}
+        - {x: 6, y: -25}
+        - {x: 15, y: -14}
+        - {x: 15, y: 7}
+        - {x: 12, y: 14}
+        - {x: -12, y: 14}
+        - {x: -21, y: 11}
+        - {x: -21, y: -14}
+    - name: fightJoy_06.png
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 62
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 3}
+        - {x: -23, y: -15}
+        - {x: -10, y: -22}
+        - {x: 5, y: -22}
+        - {x: 5, y: -12}
+        - {x: 4, y: -8}
+        - {x: -15, y: 8}
+        - {x: -17, y: 8}
+    - name: fightJoy_07.png
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 112
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 8}
+        - {x: -3, y: -8}
+        - {x: -3, y: -20}
+        - {x: -2, y: -22}
+        - {x: 12, y: -22}
+        - {x: 25, y: -6}
+        - {x: 25, y: 5}
+        - {x: 22, y: 8}
+    - name: fightJoy_08.png
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 162
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 24}
+        - {x: -21, y: 14}
+        - {x: -21, y: -4}
+        - {x: -4, y: -4}
+        - {x: 9, y: 14}
+        - {x: 9, y: 22}
+        - {x: 5, y: 24}
+    - name: fightJoy_09.png
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 212
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: -10}
+        - {x: -8, y: 3}
+        - {x: -11, y: 4}
+        - {x: -19, y: 4}
+        - {x: -21, y: 1}
+        - {x: -21, y: -3}
+        - {x: -20, y: -13}
+        - {x: -4, y: -25}
+        - {x: 5, y: -25}
+        - {x: 9, y: -18}
+        - {x: 9, y: -13}
+        - {x: 3, y: -9}
+    - name: fightJoy_10.png
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 262
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 21}
+        - {x: -24, y: 5}
+        - {x: -24, y: -5}
+        - {x: -18, y: -10}
+        - {x: -6, y: -14}
+        - {x: 11, y: -14}
+        - {x: 15, y: -10}
+        - {x: 15, y: 9}
+        - {x: 5, y: 21}
+    - name: fightJoy_11.png
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 312
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 21}
+        - {x: -7, y: 21}
+        - {x: -13, y: 7}
+        - {x: -13, y: -8}
+        - {x: -6, y: -14}
+        - {x: 9, y: -14}
+        - {x: 19, y: -8}
+        - {x: 25, y: -4}
+        - {x: 25, y: 15}
+    - name: fightJoy_12.png
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 362
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 12}
+        - {x: 13, y: 19}
+        - {x: 5, y: 24}
+        - {x: -7, y: 24}
+        - {x: -13, y: 17}
+        - {x: -13, y: -9}
+        - {x: -11, y: -14}
+        - {x: 11, y: -14}
+        - {x: 23, y: -4}
+        - {x: 23, y: 8}
+    - name: fightJoy_13.png
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 412
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 2}
+        - {x: 17, y: 12}
+        - {x: 9, y: 14}
+        - {x: -9, y: 14}
+        - {x: -13, y: 8}
+        - {x: -13, y: -6}
+        - {x: -7, y: -18}
+        - {x: -1, y: -25}
+        - {x: 2, y: -25}
+        - {x: 9, y: -22}
+        - {x: 20, y: -12}
+        - {x: 22, y: -7}
+        - {x: 23, y: -1}
+    - name: fightJoy_14.png
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 462
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -8}
+        - {x: -7, y: -8}
+        - {x: 5, y: 1}
+        - {x: 5, y: 20}
+        - {x: 4, y: 21}
+        - {x: -12, y: 21}
+        - {x: -24, y: 5}
+    - name: fightJoy_15.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 21}
+        - {x: -3, y: 11}
+        - {x: -1, y: 9}
+        - {x: 4, y: 8}
+        - {x: 16, y: -8}
+        - {x: 19, y: -8}
+        - {x: 25, y: -4}
+        - {x: 25, y: 16}
+        - {x: 11, y: 21}
+    - name: fightJoy_16.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 62
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 24}
+        - {x: -7, y: 24}
+        - {x: -7, y: 7}
+        - {x: 1, y: -4}
+        - {x: 23, y: -4}
+        - {x: 23, y: 9}
+        - {x: 9, y: 23}
+    - name: fightJoy_17.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 112
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 4}
+        - {x: -7, y: -15}
+        - {x: -7, y: -18}
+        - {x: -1, y: -25}
+        - {x: 14, y: -25}
+        - {x: 23, y: -9}
+        - {x: 23, y: 4}
+    - name: fightJoy_18.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 162
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 24}
+        - {x: -13, y: 13}
+        - {x: -13, y: -17}
+        - {x: -8, y: -22}
+        - {x: 10, y: -22}
+        - {x: 23, y: -17}
+        - {x: 23, y: 16}
+        - {x: 12, y: 24}
+    - name: fightJoy_19.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 212
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 24}
+        - {x: -3, y: 24}
+        - {x: -19, y: 13}
+        - {x: -21, y: 7}
+        - {x: -21, y: -7}
+        - {x: -12, y: -20}
+        - {x: -5, y: -22}
+        - {x: 6, y: -22}
+        - {x: 15, y: -10}
+        - {x: 15, y: 8}
+        - {x: 12, y: 21}
+    - name: fightJoy_20.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 262
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 22}
+        - {x: -13, y: 12}
+        - {x: -13, y: -9}
+        - {x: -10, y: -20}
+        - {x: -5, y: -25}
+        - {x: 5, y: -25}
+        - {x: 22, y: -13}
+        - {x: 23, y: -10}
+        - {x: 23, y: 8}
+        - {x: 11, y: 22}
+    - name: fightJoy_21.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 312
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 22}
+        - {x: -21, y: 12}
+        - {x: -21, y: -14}
+        - {x: -8, y: -25}
+        - {x: 7, y: -25}
+        - {x: 12, y: -20}
+        - {x: 15, y: -13}
+        - {x: 15, y: 16}
+        - {x: 6, y: 22}
+    - name: fightJoy_22.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 362
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 24}
+        - {x: -7, y: 22}
+        - {x: -7, y: 16}
+        - {x: -5, y: 11}
+        - {x: 1, y: 10}
+        - {x: -5, y: -10}
+        - {x: -3, y: -22}
+        - {x: 12, y: -22}
+        - {x: 23, y: -9}
+        - {x: 23, y: 14}
+        - {x: 8, y: 24}
+    - name: fightJoy_23.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 412
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 24}
+        - {x: -21, y: 16}
+        - {x: -21, y: -17}
+        - {x: -14, y: -22}
+        - {x: 9, y: -22}
+        - {x: 9, y: 24}
+    - name: fightJoy_24.png
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 462
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 22}
+        - {x: -7, y: 21}
+        - {x: -7, y: -25}
+        - {x: 10, y: -25}
+        - {x: 22, y: -13}
+        - {x: 23, y: -7}
+        - {x: 23, y: 13}
+        - {x: 13, y: 22}
+    - name: fightJoy_25.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 8}
+        - {x: 9, y: 22}
+        - {x: -13, y: 22}
+        - {x: -21, y: 11}
+        - {x: -21, y: -16}
+        - {x: -9, y: -25}
+        - {x: 6, y: -25}
+        - {x: 9, y: -20}
+        - {x: 9, y: -15}
+        - {x: 3, y: -9}
+    - name: fightJoy_26.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 62
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 19}
+        - {x: 8, y: 21}
+        - {x: -8, y: 21}
+        - {x: -20, y: 13}
+        - {x: -21, y: 12}
+        - {x: -21, y: -9}
+        - {x: -7, y: -14}
+        - {x: 17, y: -14}
+        - {x: 25, y: -6}
+        - {x: 25, y: 4}
+        - {x: 21, y: 13}
+    - name: fightJoy_27.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 112
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 14}
+        - {x: -20, y: 11}
+        - {x: -23, y: 8}
+        - {x: -23, y: -10}
+        - {x: -14, y: -22}
+        - {x: 13, y: -22}
+        - {x: 23, y: -16}
+        - {x: 23, y: 9}
+        - {x: 13, y: 14}
+    - name: fightJoy_28.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 162
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 21}
+        - {x: -24, y: 8}
+        - {x: -24, y: -6}
+        - {x: -10, y: -14}
+        - {x: 11, y: -14}
+        - {x: 23, y: -4}
+        - {x: 23, y: 15}
+        - {x: 11, y: 21}
+    - name: fightJoy_29.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 212
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 14}
+        - {x: -21, y: 4}
+        - {x: -21, y: -10}
+        - {x: -10, y: -22}
+        - {x: 17, y: -22}
+        - {x: 25, y: -5}
+        - {x: 25, y: 6}
+        - {x: 12, y: 14}
+    - name: fightJoy_30.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 262
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 21}
+        - {x: -12, y: 21}
+        - {x: -21, y: 9}
+        - {x: -21, y: -3}
+        - {x: -20, y: -5}
+        - {x: -10, y: -4}
+        - {x: -6, y: -3}
+        - {x: 13, y: -8}
+        - {x: 22, y: -8}
+        - {x: 25, y: -4}
+        - {x: 25, y: 4}
+        - {x: 22, y: 13}
+    - name: fightJoy_31.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 312
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 8}
+        - {x: -23, y: 6}
+        - {x: -23, y: -1}
+        - {x: -19, y: -12}
+        - {x: -11, y: -19}
+        - {x: -6, y: -22}
+        - {x: 10, y: -22}
+        - {x: 23, y: -10}
+        - {x: 23, y: 8}
+    - name: figurine.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 362
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 18}
+        - {x: -10, y: 13}
+        - {x: -10, y: -19}
+        - {x: -6, y: -20}
+        - {x: 9, y: -20}
+        - {x: 11, y: -17}
+        - {x: 11, y: 16}
+        - {x: 8, y: 18}
+    - name: fistPlus.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 412
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 14}
+        - {x: -6, y: 14}
+        - {x: -15, y: 3}
+        - {x: -15, y: -12}
+        - {x: -7, y: -16}
+        - {x: 11, y: -16}
+        - {x: 15, y: -8}
+        - {x: 15, y: 5}
+    - name: flag.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 462
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 19}
+        - {x: -17, y: 19}
+        - {x: -17, y: -20}
+        - {x: -5, y: -20}
+        - {x: 15, y: -7}
+        - {x: 20, y: 3}
+        - {x: 20, y: 10}
+    - name: joystick.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 20}
+        - {x: -19, y: 13}
+        - {x: -19, y: -6}
+        - {x: -9, y: -20}
+        - {x: 17, y: -20}
+        - {x: 21, y: -3}
+        - {x: 21, y: 17}
+        - {x: 15, y: 20}
+    - name: joystickL_side.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 62
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 20}
+        - {x: -19, y: 13}
+        - {x: -19, y: -6}
+        - {x: -9, y: -20}
+        - {x: 17, y: -20}
+        - {x: 21, y: -3}
+        - {x: 21, y: 17}
+        - {x: 15, y: 20}
+    - name: joystickL_top.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 112
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 18}
+        - {x: -17, y: 15}
+        - {x: -17, y: -13}
+        - {x: -9, y: -18}
+        - {x: 7, y: -18}
+        - {x: 13, y: -17}
+        - {x: 19, y: -9}
+        - {x: 19, y: 15}
+        - {x: 9, y: 18}
+    - name: joystickLeft.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 162
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 21}
+        - {x: -21, y: 9}
+        - {x: -21, y: -10}
+        - {x: -5, y: -20}
+        - {x: 10, y: -20}
+        - {x: 17, y: -17}
+        - {x: 17, y: 21}
+    - name: joystickR_side.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 212
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 20}
+        - {x: -19, y: 13}
+        - {x: -19, y: -6}
+        - {x: -9, y: -20}
+        - {x: 17, y: -20}
+        - {x: 21, y: -3}
+        - {x: 21, y: 17}
+        - {x: 15, y: 20}
+    - name: joystickR_top.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 262
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 18}
+        - {x: -17, y: 15}
+        - {x: -17, y: -13}
+        - {x: -9, y: -18}
+        - {x: 7, y: -18}
+        - {x: 13, y: -17}
+        - {x: 19, y: -9}
+        - {x: 19, y: 15}
+        - {x: 9, y: 18}
+    - name: joystickRight.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 312
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 21}
+        - {x: -11, y: 21}
+        - {x: -15, y: 19}
+        - {x: -15, y: -15}
+        - {x: -10, y: -20}
+        - {x: 1, y: -20}
+        - {x: 6, y: -18}
+        - {x: 23, y: -7}
+        - {x: 23, y: 10}
+        - {x: 22, y: 12}
+    - name: key.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 362
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 15}
+        - {x: -18, y: 1}
+        - {x: -18, y: -11}
+        - {x: -12, y: -19}
+        - {x: 20, y: -19}
+        - {x: 21, y: -13}
+        - {x: 21, y: 15}
+    - name: keyLarge.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 412
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 16}
+        - {x: -20, y: -20}
+        - {x: -18, y: -21}
+        - {x: 20, y: -21}
+        - {x: 22, y: -19}
+        - {x: 22, y: 16}
+    - name: keyLarge_3d.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 462
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 16}
+        - {x: -24, y: 2}
+        - {x: -24, y: -21}
+        - {x: 25, y: -21}
+        - {x: 25, y: 9}
+        - {x: 22, y: 16}
+    - name: keySmall.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 16}
+        - {x: -17, y: -21}
+        - {x: 17, y: -21}
+        - {x: 17, y: 16}
+    - name: keySmall_3d.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 62
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -19, y: -1}
+        - {x: -19, y: -21}
+        - {x: 17, y: -21}
+        - {x: 19, y: -20}
+        - {x: 19, y: -6}
+        - {x: 18, y: 16}
+    - name: mouse.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 112
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 18}
+        - {x: -16, y: -14}
+        - {x: -7, y: -21}
+        - {x: 9, y: -21}
+        - {x: 16, y: -15}
+        - {x: 16, y: 18}
+    - name: mouseLeft.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 162
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 18}
+        - {x: -16, y: -14}
+        - {x: -7, y: -21}
+        - {x: 9, y: -21}
+        - {x: 16, y: -15}
+        - {x: 16, y: 18}
+    - name: mouseMiddle.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 212
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 18}
+        - {x: -16, y: -14}
+        - {x: -7, y: -21}
+        - {x: 9, y: -21}
+        - {x: 16, y: -15}
+        - {x: 16, y: 18}
+    - name: mouseRight.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 262
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 18}
+        - {x: -16, y: -14}
+        - {x: -7, y: -21}
+        - {x: 9, y: -21}
+        - {x: 16, y: -15}
+        - {x: 16, y: 18}
+    - name: pointer.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 312
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 17}
+        - {x: -17, y: 17}
+        - {x: -17, y: -12}
+        - {x: -12, y: -17}
+        - {x: 14, y: -17}
+        - {x: 20, y: -14}
+        - {x: 20, y: 3}
+        - {x: 11, y: 16}
+    - name: toolBrush.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 362
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 19}
+        - {x: -20, y: -6}
+        - {x: -20, y: -20}
+        - {x: -9, y: -20}
+        - {x: 5, y: -16}
+        - {x: 16, y: -1}
+        - {x: 21, y: 9}
+        - {x: 21, y: 19}
+    - name: toolEraser.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 412
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 19}
+        - {x: -19, y: -1}
+        - {x: -19, y: -12}
+        - {x: -6, y: -21}
+        - {x: 5, y: -21}
+        - {x: 21, y: -4}
+        - {x: 21, y: 6}
+        - {x: 12, y: 19}
+    - name: toolFill.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 462
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 20}
+        - {x: -19, y: 9}
+        - {x: -19, y: -20}
+        - {x: -18, y: -21}
+        - {x: 9, y: -21}
+        - {x: 23, y: -1}
+        - {x: 23, y: 8}
+        - {x: 10, y: 20}
+    - name: toolPencil.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 19}
+        - {x: -18, y: -3}
+        - {x: -19, y: -8}
+        - {x: -19, y: -20}
+        - {x: -2, y: -20}
+        - {x: 20, y: -6}
+        - {x: 20, y: 11}
+        - {x: 9, y: 19}
+    - name: upload.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 20}
+        - {x: -18, y: 12}
+        - {x: -18, y: -22}
+        - {x: 18, y: -22}
+        - {x: 18, y: 13}
+        - {x: 8, y: 20}
+    - name: userRobot.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -19}
+        - {x: -14, y: -23}
+        - {x: 14, y: -23}
+        - {x: 16, y: -22}
+        - {x: 16, y: 14}
+        - {x: 14, y: 21}
+        - {x: -12, y: 21}
+        - {x: -16, y: 8}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
